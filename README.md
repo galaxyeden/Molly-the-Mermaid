@@ -16,10 +16,10 @@ Molly the Mermaid is my 2022 badge project, following on from 2020's [Candy the 
 | This board                              | Whoever you choose           | 1   |
 | Raspberry Pi Pico                       | Raspberry Pi                 | 1   |
 | S2B-PH-SM4-TB(LF)(SN)                   | JST                          | 1   |
-| 0.1uF 0805 Capacitor                    | Any                          | 5   |
+| 0.1uF 0805 Capacitor                    | Generic                      | 5   |
 | WS2812b                                 | WorldSemi                    | 5   |
 | LED 0805                                | Generic                      | 10  |
 | DSS14UTR                                | SMC Diode Solutions          | 1   |
-| 470 Ohm 0805 Resistor                   | Any                          | 11  |
+| 470 Ohm 0805 Resistor                   | Generic                      | 11  |
 | TL3342 Switch (or equivalent)           | E-Switch (or generic)        | 6   |
 | 2x3 2.54mm pin socket connector         | Generic                      | 1   |
