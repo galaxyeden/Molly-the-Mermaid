@@ -1,13 +1,25 @@
 # Molly the Mermaid
 
-Molly the Mermaid is my 2022 badge project, following on from 2020's [Candy the Catacorn](https://galaxyallie.space/Candy-the-Catacorn/). Molly is a work in progress and all aspects are subject to change.
-
-Preliminary plans are:
+Molly the Mermaid is my 2022 badge project, following on from 2020's [Candy the Catacorn](https://galaxyallie.space/Candy-the-Catacorn/).
 
 - Mermaid tail PCB intended to be used with a hand-made mermaid body for customization.
-- RP2040-based project
-- Based on existing open-source schematic, modified to meet mermaid needs
-- Limited run compared to Candy the Catacorn - making 50 badges was so tiring I didn't want to make any 2021 badge.
-- Intended completion May 2022
+- Raspberry Pi Pico used as a module to provide much functionality and enable easy assembly for beginners
+- Intended completion April 2022
 - Bright shiny things
-- Better suited for writing games than Candy was
+- Gaming controls!
+- [v1.69bis](https://hackaday.com/2019/03/20/introducing-the-shitty-add-on-v1-69bis-standard/) compliant-ish
+
+## Bill of Materials
+
+| Component                               | Manufacturer                 | Qty |
+|-----------------------------------------|------------------------------|-----|
+| This board                              | Whoever you choose           | 1   |
+| S2B-PH-SM4-TB(LF)(SN)                   | JST                          | 1   |
+| 0.1uF 0805 Capacitor                    | Any                          | 5   |
+| WS2812b                                 | WorldSemi                    | 5   |
+| JE2835AWT-00-0000-000A0ZF940E           | Cree Inc                     | 2   |
+| LED 0805                                | Generic                      | 10  |
+| DSS14UTR                                | SMC Diode Solutions          | 1   |
+| 470 Ohm 0805 Resistor                   | Any                          | 11  |
+| TL3342 Switch (or equivalent)           | E-Switch (or generic)        | 6   |
+| 2x3 2.54mm pin socket connector         | Generic                      | 1   |
