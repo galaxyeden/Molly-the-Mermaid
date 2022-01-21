@@ -14,6 +14,7 @@ Molly the Mermaid is my 2022 badge project, following on from 2020's [Candy the 
 | Component                               | Manufacturer                 | Qty |
 |-----------------------------------------|------------------------------|-----|
 | This board                              | Whoever you choose           | 1   |
+| Raspberry Pi Pico                       | Raspberry Pi                 | 1   |
 | S2B-PH-SM4-TB(LF)(SN)                   | JST                          | 1   |
 | 0.1uF 0805 Capacitor                    | Any                          | 5   |
 | WS2812b                                 | WorldSemi                    | 5   |
