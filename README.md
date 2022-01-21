@@ -17,7 +17,6 @@ Molly the Mermaid is my 2022 badge project, following on from 2020's [Candy the 
 | S2B-PH-SM4-TB(LF)(SN)                   | JST                          | 1   |
 | 0.1uF 0805 Capacitor                    | Any                          | 5   |
 | WS2812b                                 | WorldSemi                    | 5   |
-| JE2835AWT-00-0000-000A0ZF940E           | Cree Inc                     | 2   |
 | LED 0805                                | Generic                      | 10  |
 | DSS14UTR                                | SMC Diode Solutions          | 1   |
 | 470 Ohm 0805 Resistor                   | Any                          | 11  |
