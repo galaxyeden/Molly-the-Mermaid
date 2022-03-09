@@ -56,7 +56,7 @@ while True:
     led_right.duty_cycle = 200
     eyes.fill([0, 80, 140])
     eyes.show()
-    raspberry_led.value = True
+    raspberry_led.value = False
     if button_up.value == False:
         active_pixel -= 1
         if active_pixel < 0:
@@ -75,6 +75,7 @@ while True:
     while button_b.value == False:
         eyes.fill([30, 0, 150])
         eyes.show()
+        raspberry_led.value = True
     while button_a.value == False:
         rainbow_cycle(0.1)
     time.sleep(0.1)
